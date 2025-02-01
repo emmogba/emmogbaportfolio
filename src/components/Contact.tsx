@@ -32,15 +32,15 @@ export const Contact = () => {
 
     try {
       await emailjs.send(
-        'YOUR_SERVICE_ID', // Replace with your EmailJS service ID
-        'YOUR_TEMPLATE_ID', // Replace with your EmailJS template ID
+        'service_2cluj84', // Replace with your EmailJS service ID
+        'template_wyzuy09', // Replace with your EmailJS template ID
         {
           from_name: formData.name,
           from_email: formData.email,
           message: formData.message,
           to_name: 'Ogbaje Emmanuel',
         },
-        'YOUR_PUBLIC_KEY' // Replace with your EmailJS public key
+        'BlN-N02JTOa6rDz5Q' // Replace with your EmailJS public key
       );
 
       toast.success('Message sent successfully! 🎉', {
