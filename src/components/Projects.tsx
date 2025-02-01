@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { projects } from '../data';
 import { ExternalLink } from 'lucide-react';
 

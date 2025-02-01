@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { experiences } from '../data';
 import { Briefcase } from 'lucide-react';
 

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useState } from 'react';
 import { Mail, Phone, MapPin, Loader2 } from 'lucide-react';
 import emailjs from '@emailjs/browser';
