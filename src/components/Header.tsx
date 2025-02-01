@@ -41,7 +41,7 @@ export const Header = () => {
 
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="https://github.com"
+              href="https://github.com/emmogba"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-blue-400 transition-colors"
@@ -49,7 +49,7 @@ export const Header = () => {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/emmanuel-ogbaje-8857382"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-blue-400 transition-colors"
@@ -57,7 +57,7 @@ export const Header = () => {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-              href="mailto:contact@example.com"
+              href="emmanuelogbaje22@gmail.com"
               className="text-gray-300 hover:text-blue-400 transition-colors"
             >
               <Mail className="w-5 h-5" />
