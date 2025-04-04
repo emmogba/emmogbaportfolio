@@ -81,6 +81,54 @@ export const projects: Project[] = [
     type: 'private',
   },
   {
+    title: 'Escrow Platform',
+    description:
+      'Engineered a secure escrow system with dispute resolution workflows and third-party payment gateway integration.',
+    technologies: [
+      'Vite',
+      'React',
+      'TypeScript',
+      'Node.js',
+      'Supabase',
+      'PostgreSQL',
+      'Paystack',
+    ],
+    link: 'https://securedescrow.vercel.app/',
+    type: 'private',
+  },
+  {
+    title: 'Fintech Application',
+    description:
+      'Developed a banking system with live fund transfers, bill payments, and account number generation.',
+    technologies: [
+      'Vite',
+      'React',
+      'TypeScript',
+      'Node.js',
+      'Supabase',
+      'PostgreSQL',
+      'Paystack',
+    ],
+    link: 'https://dimpay.vercel.app/auth',
+    type: 'private',
+  },
+  {
+    title: 'MLM Application',
+    description:
+      'Created a multi-level marketing platform with user hierarchy tracking and commission automation',
+    technologies: [
+      'Vite',
+      'React',
+      'TypeScript',
+      'Node.js',
+      'Supabase',
+      'PostgreSQL',
+      'Paystack',
+    ],
+    link: 'https://fkcafrica.pages.dev/',
+    type: 'private',
+  },
+  {
     title: 'Central Billing System',
     description:
       'a central billing system for the Benue State Sport Marketing and Lottery Board to enable seamless tax payments from sporting companies operating in the state.',
