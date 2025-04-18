@@ -105,7 +105,8 @@ export const Contact = () => {
                 <div className="w-12 h-12 bg-purple-500/10 rounded-lg flex items-center justify-center group-hover:bg-purple-500/20 transition-colors">
                   <Phone className="w-6 h-6 text-purple-400" />
                 </div>
-                <span className="ml-4 text-gray-300">+2349159193799</span>
+                <span className="ml-4 text-gray-300">+2347036932091</span>
+                <span className="ml-4 text-gray-300">+2349021483189</span>
               </div>
               <div className="flex items-center group">
                 <div className="w-12 h-12 bg-pink-500/10 rounded-lg flex items-center justify-center group-hover:bg-pink-500/20 transition-colors">
