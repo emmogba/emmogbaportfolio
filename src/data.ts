@@ -1,6 +1,23 @@
 import { Project, Experience } from './types';
 
 export const projects: Project[] = [
+    {
+    title: 'Multi Purpose Platform (LMS, Courses, Job Board, Talent Hunt',
+    description:
+      'A Multi Purpose Platform built for job seekers, Tutors, Mentors and Telent seekers',
+    technologies: [
+      'Vite',
+      'React',
+      'TypeScript',
+      'Node.js',
+      'Express',
+      'PostgreSQL',
+      'Paystack',
+      'React Native (Mobile  app version)'
+    ],
+    link: 'https://www.opportunation.io/',
+    type: 'private',
+  },
   {
     title: 'Bus Booking Application',
     description:
@@ -13,6 +30,7 @@ export const projects: Project[] = [
       'Supabase',
       'PostgreSQL',
       'Paystack',
+      'React Native (Mobile  app version)'
     ],
     link: 'https://dimaqtravelsdemo.vercel.app/',
     type: 'private',
@@ -61,6 +79,7 @@ export const projects: Project[] = [
       'Supabase',
       'PostgreSQL',
       'Paystack',
+      'Capacitor (Mobile  app version)'
     ],
     link: 'https://mentorship-pi.vercel.app/',
     type: 'private',
@@ -89,6 +108,7 @@ export const projects: Project[] = [
       'React',
       'TypeScript',
       'Node.js',
+      'Express',
       'Supabase',
       'PostgreSQL',
       'Paystack',
@@ -106,8 +126,10 @@ export const projects: Project[] = [
       'TypeScript',
       'Node.js',
       'Supabase',
+      'Express',
       'PostgreSQL',
       'Paystack',
+      'Capacitor (Mobile  app version)'
     ],
     link: 'https://dimpay.vercel.app/auth',
     type: 'private',
@@ -149,9 +171,12 @@ export const experiences: Experience[] = [
       'TypeScript',
       'Node.js',
       'Laravel',
+      'Express',
       'Supabase',
       'PostgreSQL',
       'MySQL',
+      'Capacitor (Ionic)',
+      'React Native'
     ],
   },
   {

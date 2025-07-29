@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useState } from 'react';
-import { Mail, Phone, MapPin, Loader2 } from 'lucide-react';
+import { Mail, Phone, MapPin, Loader2, Computer } from 'lucide-react';
 import emailjs from '@emailjs/browser';
 import toast, { Toaster } from 'react-hot-toast';
 
@@ -99,6 +99,14 @@ export const Contact = () => {
                 </div>
                 <a href="mailto:contact@example.com" className="ml-4 text-gray-300 hover:text-blue-400 transition-colors">
                 emmanuelogbaje22@gmail.com
+                </a>
+              </div>
+              <div className="flex items-center group">
+                <div className="w-12 h-12 bg-blue-500/10 rounded-lg flex items-center justify-center group-hover:bg-blue-500/20 transition-colors">
+                  <Computer  className="w-6 h-6 text-blue-400" />
+                </div>
+                <a href="mailto:contact@example.com" className="ml-4 text-gray-300 hover:text-blue-400 transition-colors">
+                https://github.com/emmogba
                 </a>
               </div>
               <div className="flex items-center group">
