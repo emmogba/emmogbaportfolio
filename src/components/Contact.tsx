@@ -119,7 +119,7 @@ export const Contact = () => {
                 <div className="w-12 h-12 bg-pink-500/10 rounded-lg flex items-center justify-center group-hover:bg-pink-500/20 transition-colors">
                   <MapPin className="w-6 h-6 text-pink-400" />
                 </div>
-                <span className="ml-4 text-gray-300">Nigeria</span>
+                <span className="ml-4 text-gray-300">Benue, Nigeria</span>
               </div>
             </div>
           </div>
