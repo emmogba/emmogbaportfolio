@@ -4,6 +4,7 @@ import { Hero } from './components/Hero';
 import { Projects } from './components/Projects';
 import { Experience } from './components/Experience';
 import { Contact } from './components/Contact';
+import { WhatsAppFloat } from './components/WhatsAppFloat';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <p>&copy; {new Date().getFullYear()} Ogbaje Emmanuel Adoyi. All rights reserved.</p>
         </div>
       </footer>
+      <WhatsAppFloat />
     </div>
   );
 }
