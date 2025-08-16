@@ -10,7 +10,7 @@ export const Hero = () => {
             Ogbaje Emmanuel Adoyi
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8">
-            Senior Software Developer specializing in TypeScript, React, Node.js, and Laravel
+            Senior Full-Stack Developer with 6+ years of experience in TypeScript, React, Node.js, and Laravel
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
